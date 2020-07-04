@@ -2,9 +2,13 @@
 
 This repository contains the implementation of the regional adversarial attack proposed in the "Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability" published in 2020 International Conference on Machine Learning, Workshop in Uncertainty & Robustness in Deep Learning ([Link to the paper](https://arxiv.org/abs/...)).
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/utkuozbulak/cnn-gifs/master/localization.png">
+</p>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/utkuozbulak/cnn-gifs/master/adv_examples.png">
+</p>
 
 ## Citation
 If you find the code in this repository useful for your research, consider citing our paper.
