@@ -1,6 +1,6 @@
 # Regional Adversarial Perturbation
 
-This repository contains the implementation of the regional adversarial attack proposed in the "Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability" published in 2020 International Conference on Machine Learning, Workshop in Uncertainty & Robustness in Deep Learning ([Link to the paper](https://arxiv.org/abs/...)).
+This repository contains the bare bone implementation of the regional adversarial attack used in the paper "Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability" published in 2020 International Conference on Machine Learning, Workshop in Uncertainty & Robustness in Deep Learning ([Link to the paper](https://arxiv.org/abs/...)).
 
 
 ## General Information
@@ -20,8 +20,8 @@ If you find the code in this repository useful for your research, consider citin
 
     @inproceedings{ozbulak2020regional,
         title={Regional Image Perturbation Reduces Lp Norms of Adversarial Examples While Maintaining Model-to-model Transferability},
-        author={Ozbulak, Utku and Van Messem, Arnout and De Neve, Wesley},
-        booktitle={published in 2020 International Conference on Machine Learning, Workshop in Uncertainty and Robustness in Deep Learning},
+        author={Ozbulak, Utku and Peck, Jonathan and De Neve, Wesley and Goossens, Bart and Saeys, Yvan and Van Messem, Arnout},
+        booktitle={2020 International Conference on Machine Learning (ICML), Workshop in Uncertainty and Robustness in Deep Learning (UDL)},
         year={2020}
     }
 
